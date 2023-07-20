@@ -36,7 +36,7 @@
 
 5. [Collaborative Tools](https://github.com/StoryLinkApp/StoryLinkApp/blob/main/storyLinkApp/Collaborative%20Tools.md#collaborative-tools)
 
-6. [Thread Filtering and Sorting]()
+6. [Thread Filtering and Sorting](https://github.com/StoryLinkApp/StoryLinkApp/blob/main/storyLinkApp/Thread%20filterling%20and%20Sorting.md#thread-filtering-and-sorting)
 
 7. [Notifications and Updates](https://github.com/StoryLinkApp/StoryLinkApp/blob/main/storyLinkApp/Notifications%20and%20updates.md#notifications-and-updates)
 
